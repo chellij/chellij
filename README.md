@@ -1,6 +1,6 @@
 ### Hi there 👋
-- ⚡ Second-Year student at the University of Plymouth
-- ⚡ Studing a 4 year integrated masters in Robotic Engineering
+⚡ Second-Year student at the University of Plymouth
+⚡ Studing a 4 year integrated masters in Robotic Engineering
 
 
 
