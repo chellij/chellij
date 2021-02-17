@@ -1,6 +1,9 @@
-### Hi there 👋
-⚡ Second-Year student at the University of Plymouth <br>
-⚡ Studing a 4 year integrated masters in Robotic Engineering
+### Hi! Welcome to my GitHub 👋<br>
+**About me** <br>
+⚡ 21 years old <br>
+⚡ Second-year student at the University of Plymouth <br>
+⚡ Studing a 4 year integrated masters in Robotic Engineering <br>
+⚡ Currently looking for a placement in industry.
 
 
 
