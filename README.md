@@ -1,4 +1,8 @@
 ### Hi there 👋
+- ⚡ Second-Year student at the University of Plymouth
+- ⚡ Studing a 4 year integrated masters in Robotic Engineering
+
+
 
 <!--
 **chellij/chellij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
