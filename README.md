@@ -1,4 +1,4 @@
-### Hi! Welcome to my GitHub 👋<br>
+### Welcome to my GitHub 👋<br>
 **About me** <br>
 ⚡ 21 years old <br>
 ⚡ Second-year student at the University of Plymouth <br>
