@@ -1,7 +1,10 @@
 ### Welcome to my GitHub 👋<br>
 **About me** <br>
 ⚡ 23 years old <br>
-⚡ Final year student at the University of Plymouth <br>
-⚡ Studing Robotic Engineering BEng <br>
-⚡ Completed a a sandwhich year interning as a Research Engineer at CMR Surgical (Jul 2021 - Sep 22) <br>
-⚡ Planning to continue studying with a Masters
+⚡ Robotics BEng, University of Plymouth (Sep 2018 - May 2023)<br>
+⚡ Research Intern, CMR Surgical (Jul 2021-Sep 22)<br>
+
+**Currently Self-Studying** <br>
+💡 Machine Learning <br>
+💡 Data Analysis <br>
+💡 Unity3D <br>
