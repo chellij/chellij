@@ -8,3 +8,8 @@
 💡 Machine Learning <br>
 💡 Data Analysis <br>
 💡 Unity3D <br>
+
+**Portfolio** <br>
+👩‍💻 [Embedded Systems C++](chellij/Portfolio/1.%20Embedded%20Systems%20-%20Game%20Dev) <br>
+👩‍💻 [Arduino Joystick Control](chellij/Portfolio/2.%20Arduino%20Joystick%20Programming) <br>
+👩‍💻 [MatLab](chellij/Portfolio/4.%20MatLab%20Machine%20Learning) <br>
