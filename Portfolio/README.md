@@ -13,23 +13,23 @@ I was first introduced to robotics during my A-Levels and loved the combination 
 Although I am at the beginning of my career in Robotics, I have included a few projects in this repository to show some of my electrical and robotic engineering skills. 
 Some of these projects were completed as part of my academic learning and some are hobbies and self-taught skills. I have included overviews of each project as readme files, code, photos and videos where applicable.
 
-####  Machine Learning
+#### Machine Learning
   - [*Chess Piece Detection with YOLOv5 (2023, Python)*]()
   - [*Understanding Machine Learning Fundamentals (2022, MATLAB)*]()
 
-####  Computer Vision 
+#### Computer Vision 
   - [*Chessboard Detection (2023, Python)*]()
   - [*Understanding Computer Vision Fundamentals (2023, C++)*]()
 
-####  Mobile and Humanoid Robots
+#### Mobile and Humanoid Robots
   - [* (2022, ROS, CoppeliaSim and LUA)*]()
  
-####  Embedded Code (C and C++)
+#### Embedded Code (C and C++)
   - [*Tremor Analysis Tool (2023, C++)*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
   - [*Game Development Project (2020, C)*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
     
-#### Schematics (2020)
-  - [*Arduino Joystick Project*](https://github.com/chellij/RIJ-Portfolio/tree/master/2.%20Arduino%20Joystick%20Programming) 
+#### Electronics and Schematics (2020)
+  - [*Joystick Project (2021, Arduino)*](https://github.com/chellij/RIJ-Portfolio/tree/master/2.%20Arduino%20Joystick%20Programming) 
 
 #### 3D Design (2019)
   - [*Rover Project*](https://github.com/chellij/RIJ-Portfolio/tree/master/3.%20Buggy%20Project)
