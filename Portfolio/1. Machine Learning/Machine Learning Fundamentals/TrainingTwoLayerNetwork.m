@@ -28,8 +28,7 @@ function [o, W1, W2, e] = TwoLayerNetworkTraining(hN, alpha, iterations, data, W
         % - over batches of data presentations
     
 %}    
-    e = [1, 1000];
-
+    er = 5;
     for idx = 1:iterations
         %calculate internal activations of layer 1 
         net2 = W1 * data;                               % 2x3 * 3x1000 = 2x1000
@@ -61,8 +60,11 @@ function [o, W1, W2, e] = TwoLayerNetworkTraining(hN, alpha, iterations, data, W
         W2 = W2 - alpha*gradW2;                         % 2x3
         
         % calculate error
-        e(:,idx) = mean(mean((t-o).^2));     
-        
+        er = mean(mean((t-o).^2));
+        e(:,idx) = er;   
+        if (er < 0.03)
+            break
+        end
     end
 end  
 

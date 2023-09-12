@@ -18,33 +18,43 @@ clear all
 clc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % your script from here onwards
-%% TASK 1
+stuNo = "10611816: ";
+
+%% TASK 1 [3 Marks]
+%{
+    • Arm lengths = 0.4m
+    • Arm base origin = (0, 0)
+    • Generate TEST and TRAINING 1000 sample uniform datasets - range = 0 to pi 
+    • Run the RevoluteForwardKinematics2D generating the endpoint locations
+    • Plot the endpoint positions and the arm origin position too
+    • Discuss the useful range of this arm.
+%}
+
 % Setup Variables
 armLen = [0.4 0.4];
 origin = [0 0];
-
 samples = 1000;
 ang = [0 pi];
 
+% Generate Datasets
 % y = offset + range * rand(array size)
-dataset1 = ang(1) + (ang(2)-ang(1)).*rand(2, samples);
-dataset2 = ang(1) + (ang(2)-ang(1)).*rand(2, samples);
+theta1 = ang(1) + (ang(2)-ang(1)).*rand(2, samples);
+theta2 = ang(1) + (ang(2)-ang(1)).*rand(2, samples);
 
-theta = [dataset1 dataset2];
+% Run forward kinematics function on both datasets
+[P1_train, P2_train] = RevoluteForwardKinematics2D(armLen, theta1, origin);
+[P1_test, P2_test] = RevoluteForwardKinematics2D(armLen, theta2, origin);
 
-% Generate Data
-[elbowjoint, endpoint] = RevoluteForwardKinematics2D(armLen, theta, origin);
-
+save("P1_workspace.mat")
 %% Plot endpoint positions and arm origin position
-figure;
+endpoints = figure;
 hold on;
-plot(endpoint(1,1:1000), endpoint(2,1:1000), 'g.');
+plot(P2_train(1,:), P2_train(2,:), 'g.');
 plot(origin, origin, 'k.', 'MarkerSize', 20);
-title("10611816: Arm Endpoints");
+title(stuNo + "Arm Endpoints");
 xlabel("x (m)");
 ylabel("y (m)");
 legend( "Endpoint", "Origin");
 
 %% Save data to use elsewhere
-save("ArmData")
-
+saveas(endpoints, "figures/Task1_EndPointPositions.png")
