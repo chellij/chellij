@@ -27,4 +27,4 @@ A robot is to be designed to navigate an environment, and thus must detect its s
 ### Task 5
 One of the most complex computer vision applications is in the growing field of autonomous driving cars. Cameras around the car capture a great deal of information, however breaking this down into useful data is a huge challenge. In this task, you are required to program a small part of this system, lane detection.
 
-<img src = "./Task5/T5.png" height = 300>
+<img src = "./Task5/T5.jpg" height = 300>
