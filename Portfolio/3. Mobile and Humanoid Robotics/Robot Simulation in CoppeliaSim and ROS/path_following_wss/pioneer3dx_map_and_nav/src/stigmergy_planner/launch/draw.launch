@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>	
+
+<launch>
+  <arg name="robot_prefix" value="pioneer3dx" />
+
+  <node name="stigmergy_planner_$(arg robot_prefix)" pkg="stigmergy_planner" type="stigmergy_planner" respawn="false" output="screen">
+	 
+	 <param name = "global_frame_id" value = "/map"/>
+	 <param name = "robot_frame_id" value = "/base_link"/>
+         <param name = "trajectory_control_action_server_name" value = "trajectory_control_action_server_$(arg robot_prefix)"/>
+         <param name = "interactive_marker_server_name" value = "stigmergy_planner_$(arg robot_prefix)"/>
+
+         <param name = "pcd_map_topic_name" value = "/$(arg robot_prefix)/octomap"/>
+         
+         <param name = "stigmergy_path_topic_name" value = "/$(arg robot_prefix)/stigmergy_path"/>
+         <param name = "final_stigmergy_path_topic_name" value = "/$(arg robot_prefix)/final_stigmergy_path"/>
+         <param name = "overlaid_path_topic_name" value = "/$(arg robot_prefix)/overlaid_path"/>
+         <param name = "interpolated_path_topic_name" value = "/$(arg robot_prefix)/interpolated_path"/>
+         <param name = "target_topic_name" value = "/$(arg robot_prefix)/target"/>
+  </node> 
+
+
+</launch>
+

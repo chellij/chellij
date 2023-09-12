@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>	
+<launch>
+
+  <node name="trajectory_control_action_server" pkg="trajectory_control" type="trajectory_control" respawn="false" output="screen">
+	 <param name = "odom_frame_id" value = "odom"/>
+	 <param name = "global_frame_id" value = "map"/>
+	 <param name = "robot_frame_id" value = "base_link"/>
+         <param name = "trajectory_control_action_server_name" value = "trajectory_control_action_server"/>
+
+         <param name = "robot_width" value = "0.354"/>
+	 <param name = "displacement" value = "0.15"/>
+	 <param name = "vel_reference" value = "0.05"/>
+	 <param name = "gain_k1" value = "10.5"/>
+	 <param name = "gain_k2" value = "10.5"/>
+	 <param name = "delay" value = "10"/>
+         <param name = "max_wheel_vel" value = "1.85"/>
+	 <param name = "global_path_topic" value = "/global_path"/>
+	 <param name = "local_path_topic" value = "/local_path"/>
+	 
+	 <param name = "imu_odom_topic" value = "/odom"/>
+         <param name = "tracks_vel_cmd_topic" value = "/tracks_vel_cmd"/>
+	 <param name="robot_path_topic" value="/robot_path" />
+  </node> 
+
+
+</launch>
+
