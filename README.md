@@ -1,7 +1,7 @@
 ### Welcome to my GitHub 👋<br>
 **About me** <br>
 ⚡ 24 years old <br>
-⚡ Recently graduated with a 1st Class Honours degree in Robotics (BEng) from the University of Plymouth <br>
+⚡ Robotics BEng, University of Plymouth (1st Class Honours) <br>
 ⚡ Research Intern, CMR Surgical (Jul 2021-Sep 22)<br>
 
 **Favourite Coding Fields** <br>
