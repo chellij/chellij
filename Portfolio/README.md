@@ -14,27 +14,27 @@ Although I am at the beginning of my career in Robotics, I have included a few p
 Some of these projects were completed as part of my academic learning and some are hobbies and self-taught skills. I have included overviews of each project as readme files, code, photos and videos where applicable.
 
 #### Machine Learning
-  - [*Chess Piece Detection with YOLOv5 (2023, Python)*]()
-  - [*Understanding Machine Learning Fundamentals (2022, MATLAB)*]()
+  - [*Chess Piece Detection with YOLOv5 (2023, Python)*](./1.%20Machine%20Learning/Chess%20Piece%20Detection/)
+  - [*Understanding Machine Learning Fundamentals (2022, MATLAB)*](./1.%20Machine%20Learning/Machine%20Learning%20Fundamentals/)
 
 #### Computer Vision 
-  - [*Chessboard Detection (2023, Python)*]()
-  - [*Understanding Computer Vision Fundamentals (2023, C++)*]()
+  - [*Chessboard Detection (2023, Python)*](./2.%20Computer%20Vision/Chessboard%20Detection/)
+  - [*Understanding Computer Vision Fundamentals (2023, C++)*](./2.%20Computer%20Vision/Computer%20Vision%20Fundamentals/)
 
 #### Mobile and Humanoid Robots
-  - [* (2022, ROS, CoppeliaSim and LUA)*]()
+  - [*Robot Simulation in CoppeliaSim with ROS (2022, LUA)*](./3.%20Mobile%20and%20Humanoid%20Robotics/Robot%20Simulation%20in%20CoppeliaSim%20with%20ROS/)
  
 #### Embedded Code (C and C++)
-  - [*Tremor Analysis Tool (2023, C++)*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
-  - [*Game Development Project (2020, C)*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
+  - [*Tremor Analysis Tool (2023, C++)*](./4.%20Embeded%20Code/Tremor%20Analysis%20Tool/)
+  - [*Baremetal C Game Development (2020, C)*](.//4.%20Embeded%20Code/Baremetal%20Game%20Development/)
     
 #### Electronics and Schematics (2020)
-  - [*Joystick Programming (2021, Arduino)*](https://github.com/chellij/RIJ-Portfolio/tree/master/2.%20Arduino%20Joystick%20Programming) 
+  - [*Joystick Programming (2021, Arduino)*](./5.%20Electronics%20and%20Schematics/Joystick%20Programming/) 
 
 #### Aditional Projects
-  - [*Overview of my time with CMR Surgical (2021-2022)*]()
-  - [*Rover Project (2020, 3D Design)*](https://github.com/chellij/RIJ-Portfolio/tree/master/3.%20Rover%20Project)
-  - [*VEX Robotics (2016,17)*](https://github.com/chellij/RIJ-Portfolio/tree/master/4.%20VEX%20Robotics)
+  - [*CMR Surgical (2021-2022)*](./6.%20Additional%20Projects/CMR%20Surgical/)
+  - [*Rover Project (2020, 3D Design)*](./6.%20Additional%20Projects/Rover%20Project/)
+  - [*VEX Robotics (2016,17)*](./6.%20Additional%20Projects/VEX%20Robotics/)
 
 
 # Contact Me
