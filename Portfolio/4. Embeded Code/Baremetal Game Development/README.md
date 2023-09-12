@@ -1,6 +1,6 @@
 <h1> Baremetal Game Development Project Overview </h1>
 
-<h3> 17.12.2020 </h3>
+<h3> December 2020 </h3>
 
 _**This project was assigned by university as a practical way to learn about embedded systems and baremetal programming in C.**_
 
