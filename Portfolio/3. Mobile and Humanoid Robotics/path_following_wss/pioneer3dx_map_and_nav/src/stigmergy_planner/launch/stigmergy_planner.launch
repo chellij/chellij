@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>	
+
+<launch>
+  <node name="stigmergy_planner" pkg="stigmergy_planner" type="stigmergy_planner" respawn="false" output="screen">
+	 
+	 <param name = "global_frame_id" value = "map"/>
+	 <param name = "robot_frame_id" value = "base_link"/>
+         <param name = "trajectory_control_action_server_name" value = "trajectory_control_action_server"/>
+         <param name = "interactive_marker_server_name" value = "stigmergy_planner"/>
+         
+         <param name = "pcd_map_topic_name" value = "/octomap_point_cloud_centers"/>
+         
+         <param name = "stigmergy_path_topic_name" value = "/stigmergy_path"/>
+         <param name = "overlaid_path_topic_name" value = "/overlaid_path"/>
+         <param name = "interpolated_path_topic_name" value = "/interpolated_path"/>
+         <param name = "target_topic_name" value = "/target"/>
+         
+         <param name = "final_stigmergy_path_topic_name" value = "/final_stigmergy_path"/>
+  </node> 
+
+  <node name="path_marker" pkg="stigmergy_planner" type="path_marker" respawn="false" output="screen">
+         
+         <param name = "path_topic_name" value = "/interpolated_path"/>
+         <param name = "marker_topic_name" value = "/interpolated_path_marker"/>
+         <param name = "color_r" value = "0"/>
+         <param name = "color_g" value = "1"/>
+         <param name = "color_b" value = "0"/>
+  </node> 
+
+</launch>
+

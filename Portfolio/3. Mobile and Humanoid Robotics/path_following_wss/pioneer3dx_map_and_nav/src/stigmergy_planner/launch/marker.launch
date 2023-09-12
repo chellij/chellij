@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>	
+
+<launch>
+  <arg name="robot_prefix" value="pioneer3dx" />
+
+  <node name="path_marker" pkg="stigmergy_planner" type="path_marker" respawn="false" output="screen">
+         
+         <param name = "path_topic_name" value = "/final_stigmergy_path"/>
+
+         <param name = "marker_topic_name" value = "/final_stigmergy_path_marker"/>
+
+         <param name = "color_r" value = "0"/>
+         <param name = "color_g" value = "1"/>
+         <param name = "color_b" value = "0"/>
+  </node> 
+
+
+</launch>
+
