@@ -13,13 +13,10 @@ I was first introduced to robotics during my A-Levels and loved the combination 
 Although I am at the beginning of my career in Robotics, I have included a few projects in this repository to show some of my electrical and robotic engineering skills. 
 Some of these projects were completed as part of my academic learning and some are hobbies and self-taught skills. I have included overviews of each project as readme files, code, photos and videos where applicable.
 
-#### Machine Learning
-  - [*Chess Piece Detection with YOLOv5 (2023, Python)*](./1.%20Machine%20Learning/Chess%20Piece%20Detection/)
-  - [*Understanding Machine Learning Fundamentals (2022, MATLAB)*](./1.%20Machine%20Learning/Machine%20Learning%20Fundamentals/)
-
-#### Computer Vision 
-  - [*Chessboard Detection (2023, Python)*](./2.%20Computer%20Vision/Chessboard%20Detection/)
-  - [*Understanding Computer Vision Fundamentals (2023, C++)*](./2.%20Computer%20Vision/Computer%20Vision%20Fundamentals/)
+#### Machine Learning and Computer Vision
+  - [**Final Year Project (2023, Python)**](./0.%20Final%20Year%20Project/)
+  - [*Machine Learning Fundamentals (2022, MATLAB)*](./1.%20Machine%20Learning/Machine%20Learning%20Fundamentals/)
+  - [*Computer Vision Fundamentals (2023, C++)*](./2.%20Computer%20Vision/Computer%20Vision%20Fundamentals/)
 
 #### Mobile and Humanoid Robots
   - [*Robot Simulation in CoppeliaSim with ROS (2022, LUA)*](./3.%20Mobile%20and%20Humanoid%20Robotics/Robot%20Simulation%20in%20CoppeliaSim%20with%20ROS/)
