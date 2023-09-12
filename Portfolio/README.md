@@ -29,15 +29,12 @@ Some of these projects were completed as part of my academic learning and some a
   - [*Game Development Project (2020, C)*](https://github.com/chellij/RIJ-Portfolio/tree/master/1.%20Embedded%20Systems%20-%20Game%20Dev)
     
 #### Electronics and Schematics (2020)
-  - [*Joystick Project (2021, Arduino)*](https://github.com/chellij/RIJ-Portfolio/tree/master/2.%20Arduino%20Joystick%20Programming) 
-
-#### 3D Design (2019)
-  - [*Rover Project*](https://github.com/chellij/RIJ-Portfolio/tree/master/3.%20Buggy%20Project)
+  - [*Joystick Programming (2021, Arduino)*](https://github.com/chellij/RIJ-Portfolio/tree/master/2.%20Arduino%20Joystick%20Programming) 
 
 #### Aditional Projects
-  - [*Overview of my time with CMR Surgical*](2021-2022)
-  - [*VEX Robotics (2016,17)*]()
-  - [**]()
+  - [*Overview of my time with CMR Surgical (2021-2022)*]()
+  - [*Rover Project (2020, 3D Design)*](https://github.com/chellij/RIJ-Portfolio/tree/master/3.%20Rover%20Project)
+  - [*VEX Robotics (2016,17)*](https://github.com/chellij/RIJ-Portfolio/tree/master/4.%20VEX%20Robotics)
 
 
 # Contact Me
