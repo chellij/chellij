@@ -10,4 +10,4 @@
 💡 Data Analysis <br>
 💡 Game Design <be>
 
-[**Portfolio**]() <br>
+[**Portfolio**](./Portfolio/) <br>
