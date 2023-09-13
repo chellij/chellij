@@ -19,11 +19,11 @@ Some of these projects were completed as part of my academic learning and some a
   - [*Computer Vision Fundamentals (2023, C++)*](./2.%20Computer%20Vision/Computer%20Vision%20Fundamentals/)
 
 #### Mobile and Humanoid Robots
-  - [*Robot Simulation in CoppeliaSim with ROS (2022, LUA)*](./3.%20Mobile%20and%20Humanoid%20Robotics/Robot%20Simulation%20in%20CoppeliaSim%20with%20ROS/)
+  - [*Robot Simulation in CoppeliaSim with ROS (2022, LUA)*](./3.%20Mobile%20and%20Humanoid%20Robotics/Robot%20Simulation%20in%20CoppeliaSim%20and%20ROS/)
  
 #### Embedded Code (C and C++)
   - [*Tremor Analysis Tool (2023, C++)*](./4.%20Embeded%20Code/Tremor%20Analysis%20Tool/)
-  - [*Baremetal C Game Development (2020, C)*](.//4.%20Embeded%20Code/Baremetal%20Game%20Development/)
+  - [*Baremetal C Game Development (2020, C)*](./4.%20Embeded%20Code/Baremetal%20Game%20Development/)
     
 #### Electronics and Schematics (2020)
   - [*Joystick Programming (2021, Arduino)*](./5.%20Electronics%20and%20Schematics/Joystick%20Programming/) 
