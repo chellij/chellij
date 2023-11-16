@@ -5,6 +5,7 @@
 ⚡ Research Intern, CMR Surgical (Jul 2021-Sep 22)<br>
 
 **Favourite Fields** <br>
+💡 Robotics and Automaton <br>
 💡 Computer Vision <br>
 💡 Simulation and Design <br>
 💡 Machine Learning <br>
