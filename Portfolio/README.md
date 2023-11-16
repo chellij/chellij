@@ -6,7 +6,7 @@ Hi, I am Rachel!
 
 I have just finished my final year of a Robotics (BEng) degree at the University of Plymouth. I spent five years at university, undertaking a foundation year, a three-year degree and a year in industry. My placement was with [CMR Surgical](https://cmrsurgical.com/) in Cambridge, and I had an incredible time in the Research and Strategy department in the Robotics team.
 
-I was first introduced to robotics during my A-Levels and loved the combination of design and code. It was, however, only at university that I realised how many different aspects of robotics there are and how many sectors of life robots can be used in. I am open to all opportunities to learn more about the various uses however, I passionately care that my work will create a positive impact within the world, whether this be within medical, environmental, sustainable, or an entirely new field.
+I was first introduced to robotics during my A-Levels and loved the combination of design and code. It was, however, only at university that I realised how many different aspects of robotics there are and how many sectors of life robots can be used in. I am open to all opportunities to learn more about the various uses however, I passionately care that my work will create an impact within the world, whether this be within medical, environmental, sustainable, or an entirely new field. I also would love to have a career that lets me continue learning and developing as an engineer. Hopefully I'll find a job that allows me to programme and do more physical tasks as well, interacting with hardware or similar.
 
 # My Portfolio
 
@@ -25,7 +25,7 @@ Some of these projects were completed as part of my academic learning and some a
   - [*Tremor Analysis Tool (2023, C++)*](./4.%20Embeded%20Code/Tremor%20Analysis%20Tool/)
   - [*Baremetal C Game Development (2020, C)*](./4.%20Embeded%20Code/Baremetal%20Game%20Development/)
     
-#### Electronics and Schematics (2020)
+#### Electronics and Schematics
   - [*Joystick Programming (2021, Arduino)*](./5.%20Electronics%20and%20Schematics/Joystick%20Programming/) 
 
 #### Aditional Projects
